@@ -36,7 +36,7 @@ Additional metrics were created, including CTR, CPA, ROI, and Conversion Rate.
 ## Dashboard
 
 Access the interactive dashboard:
-[Ver Dashboard](https://lookerstudio.google.com/reporting/922b6640-9fdd-460d-8a71-07cd547ae37c)
+[Ver Dashboard](https://lookerstudio.google.com/s/td8g28E0cKQ)
 
 ![DASHBOARD](images/dashboard_overview.png)
 
