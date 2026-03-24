@@ -33,14 +33,6 @@ Additional metrics were created, including CTR, CPA, ROI, and Conversion Rate.
 4. Building an interactive dashboard in Looker Studio  
 5. Extracting insights and business recommendations  
 
-## Dashboard
-
-Access the interactive dashboard:
-[Ver Dashboard](https://lookerstudio.google.com/s/td8g28E0cKQ)
-
-![DASHBOARD](images/dashboard_overview.png)
-
-
 ## Key Insights
 
 - Overall campaign performance is positive, with revenue exceeding costs  
